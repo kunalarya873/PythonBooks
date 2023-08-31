@@ -40,4 +40,4 @@ Have a favorite Python book that transformed your coding experience? Share it wi
 
 Explore our Python Books Library and discover titles that resonate with your interests and aspirations. Begin your immersive Python learning experience today!
 
-[![Made with ❤️ by kunalarya873](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Pythonistas-red)](https://github.com/kunalarya873)
+[![Made with ❤️ by kunalarya873](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-kunalarya873-red)](https://github.com/kunalarya873)
